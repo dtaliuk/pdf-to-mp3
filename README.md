@@ -5,11 +5,11 @@
 
 1. Запустите cmd
 
-2. Создайте интерпретатор 
-'python -m venv venv'
+2. Создайте интерпретатор \
+- python -m venv venv
 
-3. Установите зависимости
-'pip install -r requirements.txt'
+3. Установите зависимости\
+- pip install -r requirements.txt
 
 
 ### Использование программы
